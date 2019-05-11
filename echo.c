@@ -1,9 +1,5 @@
 /* echo.c - echo user input */
-<<<<<<< HEAD
-/* Created by John Doe */
-=======
 /* Elizabeth Coble */
->>>>>>> add-author
 /* Last updated: 3/23/18 */
 
 #include <stdio.h>
